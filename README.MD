@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg)](https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d)
 [![Metrics](https://github.com/AReid987/AReid987/actions/workflows/main.yml/badge.svg)](https://github.com/AReid987/AReid987/actions/workflows/main.yml)
 
 <!--START_SECTION:waka-->
