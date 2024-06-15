@@ -17,7 +17,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him" | "his",
-   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash",
+   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"],
    technologies: {
       frontEnd: {
          js: ["React", "Next.js", "Framer Motion"],
@@ -29,7 +29,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "PostgreSQL", "MySQL"]
    },
-   currentFocus: "Artificial Intelligence", "Cloud Engineering", "Constructivism"
+   currentFocus: ["Artificial Intelligence", "Cloud Engineering", "Constructivism"]
 };
 ```
 
