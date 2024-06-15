@@ -1,66 +1,71 @@
-## What is good? 👋
+**Antonio's GitHub Profile 🤩**
+=====================================
 
-### I'm Antonio, a coder with a thirst for knowledge. 📚
+### About Me 🙋‍♂️
+Hi, I'm Antonio, a curious coder with a passion for knowledge 📚. I'm always learning and exploring new technologies and ideas! 🚀
 
-[![wakatime](https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg)](https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d)
+### Badges & Stats 🏆
+[![Wakatime](https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg)](https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d)
 [![Metrics](https://github.com/AReid987/AReid987/actions/workflows/main.yml/badge.svg)](https://github.com/AReid987/AReid987/actions/workflows/main.yml)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/areid987/areid987)
 
+### Contribution Grid Snake 🐍
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+### About Me (JSON) 💻
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him" | "his",
-   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Next.js", "Framer Motion"],
-         css: ["Bootstrap", "Tailwind", "Styled Components", "Material UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express", "NestJS"],
-         python: ["Rails", "Flask", "Prisma ORM"]
-      },
-      databases: ["MongoDB", "PostgreSQL", "MySQL"]
-   },
-   currentFocus: ["Artificial Intelligence", "Cloud Engineering", "Constructivism"]
+  pronouns: "he" | "him" | "his",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Framer Motion"],
+      css: ["Bootstrap", "Tailwind", "Styled Components", "Material UI"]
+    },
+    backEnd: {
+      js: ["Node", "Express", "NestJS"],
+      python: ["Rails", "Flask", "Prisma ORM"]
+    },
+    databases: ["MongoDB", "PostgreSQL", "MySQL"]
+  },
+  currentFocus: ["Artificial Intelligence", "Cloud Engineering", "Constructivism"]
 };
 ```
 
-**🚀 I'm currently working on:**
-- A full-stack web application for TWG Sportsclub using RAG, LLMs, Next.js, NestJS, GraphQL Federated Architecture, tRPC, Cloud Based Container Orchestration.
-- A mysterious EdTech platform leveraging AI and Learning Theory.
+### Current Projects 🚧
+**I'm currently working on:**
 
-**🌱 I'm currently learning:**
-- Google Cloud and Azure
-- System Architecture Design and Documentation
-- Design Systems and UX Design
-- RAG and LLMs
+* A full-stack web application for TWG Sportsclub using RAG, LLMs, Next.js, NestJS, GraphQL Federated Architecture, tRPC, Cloud Based Container Orchestration 🏋️‍♂️.
+* A mysterious EdTech platform leveraging AI and Learning Theory 📚.
 
-**👯 I'm looking to collaborate on:**
-- Open-source projects related to web development or AI
-- Hackathons and coding challenges
+### Learning Journey 📊
+**I'm currently learning:**
 
-**💬 Ask me about:**
-- Automation and productivity hacks
-- Web development best practices
-- JavaScript frameworks and libraries
-- Data structures and algorithms
+* Google Cloud and Azure ☁️
+* System Architecture Design and Documentation 📝
+* Design Systems and UX Design 🎨
+* RAG and LLMs 🔍
 
-**📫 How to reach me:**
-- Email: read.musik@gmail.com
-- LinkedIn: https://linkedin.com/in/antonio-reid
+### Collaboration & Questions 🤝
+**I'm looking to collaborate on:**
 
-**📊 GitHub Stats:**
+* Open-source projects related to web development or AI 🤝
+* Hackathons and coding challenges 💻
 
-Antonio's GitHub stats
+**Ask me about:**
 
+* Automation and productivity hacks ⏱️
+* Web development best practices 📚
+* JavaScript frameworks and libraries 🤔
+* Data structures and algorithms 📊
+
+### Get in Touch 📲
+* Email: [read.musik@gmail.com](mailto:read.musik@gmail.com)
+* LinkedIn: [https://linkedin.com/in/antonio-reid](https://linkedin.com/in/antonio-reid)
+
+### GitHub Stats 📈
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-
