@@ -1,3 +1,7 @@
+## What is good? 👋
+
+### I'm Antonio, a coder with a thirst for knowledge. 📚
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -9,10 +13,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## What is good? 👋
-
-### I'm Antonio, a coder with a thirst for knowledge. 📚
 
 ```javascript
 const aboutMe = {
