@@ -10,6 +10,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg)](https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d)
 [![Metrics](https://github.com/AReid987/AReid987/actions/workflows/main.yml/badge.svg)](https://github.com/AReid987/AReid987/actions/workflows/main.yml)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/areid987/areid987?style=flat)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
