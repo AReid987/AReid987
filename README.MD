@@ -1,6 +1,5 @@
 # **Hi, I'm Antonio, a Human Developer 🤩**
 
-=====================================
 
 ## About Me 🙋‍♂️
 
