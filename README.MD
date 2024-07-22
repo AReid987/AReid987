@@ -1,22 +1,21 @@
-**Antonio 🤩**
+# **Hi, I'm Antonio, a Human Developer 🤩**
+
 =====================================
 
-### About Me 🙋‍♂️
+## About Me 🙋‍♂️
+
 Hi, I'm Antonio, a curious coder with a passion for knowledge 📚. I'm always learning and exploring new technologies and ideas! 🚀
 
-### Badges & Stats 🏆
+## Badges & Stats 🏆
+
 [![Wakatime](https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg)](https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/areid987/areid987)
 
-### Contribution Grid Snake 🐍
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+![futuristic sentient glowing city](futuristic-revolutionary-device-shimmering-glowing-sentient-triangular-embodies-autonomous-ani-360205748.jpeg)
 
-### About Me (JSON) 💻
-```javascript
+## Personal Data (JSON) 💻
+
+```JavaScript
 const aboutMe = {
   pronouns: "he" | "him" | "his",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"],
@@ -35,13 +34,16 @@ const aboutMe = {
 };
 ```
 
-### Current Projects 🚧
+## Current Projects 🚧
+
 **I'm currently working on:**
 
+* Becoming an autonomous human
 * A full-stack web application for TWG Sportsclub using RAG, LLMs, Next.js, NestJS, GraphQL Federated Architecture, tRPC, Cloud Based Container Orchestration 🏋️‍♂️.
 * A system for creating Agentic Flows using as much consumer grade hardware as possilbe, (LPU inferencing currently) for the use case of making technology and education accessible to the underserved and profitable. 📚.
 
-### Learning Journey 📊
+## Learning Journey 📊
+
 **I'm currently learning:**
 
 * Google Cloud and Azure ☁️
@@ -49,7 +51,8 @@ const aboutMe = {
 * Design Systems and UX Design 🎨
 * Knowledge DBs, RAGs, Graph RAG and LLMs 🔍
 
-### Collaboration & Questions 🤝
+## Collaboration & Questions 🤝
+
 **I'm looking to collaborate on:**
 
 * Open-source projects related to web development or AI 🤝
@@ -62,9 +65,11 @@ const aboutMe = {
 * JavaScript frameworks and libraries 🤔
 * Data structures and algorithms 📊
 
-### Get in Touch 📲
+## Get in Touch 📲
+
 * Email: [read.musik@gmail.com](mailto:read.musik@gmail.com)
 * LinkedIn: [https://linkedin.com/in/antonio-reid](https://linkedin.com/in/antonio-reid)
 
-### GitHub Stats 📈
+## GitHub Stats 📈
+
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
