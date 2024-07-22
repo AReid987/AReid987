@@ -6,7 +6,6 @@ Hi, I'm Antonio, a curious coder with a passion for knowledge 📚. I'm always l
 
 ### Badges & Stats 🏆
 [![Wakatime](https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg)](https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d)
-[![Metrics](https://github.com/AReid987/AReid987/actions/workflows/main.yml/badge.svg)](https://github.com/AReid987/AReid987/actions/workflows/main.yml)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/areid987/areid987)
 
 ### Contribution Grid Snake 🐍
@@ -40,7 +39,7 @@ const aboutMe = {
 **I'm currently working on:**
 
 * A full-stack web application for TWG Sportsclub using RAG, LLMs, Next.js, NestJS, GraphQL Federated Architecture, tRPC, Cloud Based Container Orchestration 🏋️‍♂️.
-* A mysterious EdTech platform leveraging AI and Learning Theory 📚.
+* A system for creating Agentic Flows using as much consumer grade hardware as possilbe, (LPU inferencing currently) for the use case of making technology and education accessible to the underserved and profitable. 📚.
 
 ### Learning Journey 📊
 **I'm currently learning:**
@@ -48,7 +47,7 @@ const aboutMe = {
 * Google Cloud and Azure ☁️
 * System Architecture Design and Documentation 📝
 * Design Systems and UX Design 🎨
-* RAG and LLMs 🔍
+* Knowledge DBs, RAGs, Graph RAG and LLMs 🔍
 
 ### Collaboration & Questions 🤝
 **I'm looking to collaborate on:**
