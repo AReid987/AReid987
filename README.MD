@@ -1,9 +1,6 @@
-# **Hi, I'm Antonio, a Human Developer 🤩**
+# **Hi, 🙋‍♂️ I'm Antonio, a Human Developer 🤩**
 
-
-## About Me 🙋‍♂️
-
-Hi, I'm Antonio, a curious coder with a passion for knowledge 📚. I'm always learning and exploring new technologies and ideas! 🚀
+I'm enamored with learning, discussing things we've learned together, and generally just taking my limited capacity as far as it will go. 🚀
 
 ## Badges & Stats 🏆
 
@@ -12,63 +9,33 @@ Hi, I'm Antonio, a curious coder with a passion for knowledge 📚. I'm always l
 
 ![futuristic sentient glowing city](futuristic-revolutionary-device-shimmering-glowing-sentient-triangular-embodies-autonomous-ani-360205748.jpeg)
 
-## Personal Data (JSON) 💻
+## Right now I'm way into 🤔
 
-```JavaScript
-const aboutMe = {
-  pronouns: "he" | "him" | "his",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Framer Motion"],
-      css: ["Bootstrap", "Tailwind", "Styled Components", "Material UI"]
-    },
-    backEnd: {
-      js: ["Node", "Express", "NestJS"],
-      python: ["Rails", "Flask", "Prisma ORM"]
-    },
-    databases: ["MongoDB", "PostgreSQL", "MySQL"]
-  },
-  currentFocus: ["Artificial Intelligence", "Cloud Engineering", "Constructivism"]
-};
-```
+- Human </> Agent Collaboration
+- Multi Agent Systems (Multi Modal Crews === 🔥) 
+- Multi Agent Systems
+- GraphRAG
+- Real-Time TTS <=> STT for HITL Workflows
+- Any Combination fo Distributed, Parallel Computing on Heterogeneous Consumer Grade Hardware (p2p++)
+- HomeLabs
+- Systems Architecture Design
+- Diagrams as Code
+- Design Systems
 
-## Current Projects 🚧
+pronouns: "he" | "him" | "his",
+</> ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"],
+technologies
+frontEnd
+js ["React", "Next.js", "Framer Motion"],
+css ["Bootstrap", "Tailwind", "Styled Components", "Material UI"]
+backEnd 
+Neo4j
+js ["Node", "Express", "NestJS"],
+python ["Rails", "Flask", "Prisma ORM"]
+databases: ["MongoDB", "PostgreSQL", "MySQL"]
+currentFocus: ["Artificial Intelligence", "Cloud Engineering", "Constructivism"]
 
-**I'm currently working on:**
-
-* Becoming an autonomous human
-* A full-stack web application for TWG Sportsclub using RAG, LLMs, Next.js, NestJS, GraphQL Federated Architecture, tRPC, Cloud Based Container Orchestration 🏋️‍♂️.
-* A system for creating Agentic Flows using as much consumer grade hardware as possilbe, (LPU inferencing currently) for the use case of making technology and education accessible to the underserved and profitable. 📚.
-
-## Learning Journey 📊
-
-**I'm currently learning:**
-
-* Google Cloud and Azure ☁️
-* System Architecture Design and Documentation 📝
-* Design Systems and UX Design 🎨
-* Knowledge DBs, RAGs, Graph RAG and LLMs 🔍
-
-## Collaboration & Questions 🤝
-
-**I'm looking to collaborate on:**
-
-* Open-source projects related to web development or AI 🤝
-* Hackathons and coding challenges 💻
-
-**Ask me about:**
-
-* Automation and productivity hacks ⏱️
-* Web development best practices 📚
-* JavaScript frameworks and libraries 🤔
-* Data structures and algorithms 📊
-
-## Get in Touch 📲
+## Hit me up 📲
 
 * Email: [read.musik@gmail.com](mailto:read.musik@gmail.com)
 * LinkedIn: [https://linkedin.com/in/antonio-reid](https://linkedin.com/in/antonio-reid)
-
-## GitHub Stats 📈
-
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
