@@ -22,17 +22,20 @@ I'm enamored with learning, discussing things we've learned together, and genera
 - Diagrams as Code
 - Design Systems
 
-pronouns: "he" | "him" | "his",
-</> ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"],
-technologies
-frontEnd
-js ["React", "Next.js", "Framer Motion"],
-css ["Bootstrap", "Tailwind", "Styled Components", "Material UI"]
-backEnd 
-Neo4j
-js ["Node", "Express", "NestJS"],
-python ["Rails", "Flask", "Prisma ORM"]
-databases: ["MongoDB", "PostgreSQL", "MySQL"]
+pronouns: "he" | "him" | "his"
+
+
+### Technologies
+</> ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"]
+
+### FrontEnd
+- js ["React", "Next.js", "Framer Motion"]
+- css ["Bootstrap", "Tailwind", "Styled Components", "Material UI"]
+### BackEnd 
+- Neo4j
+- js ["Node", "Express", "NestJS"],
+- python ["Rails", "Flask", "Prisma ORM"]
+- databases: ["MongoDB", "PostgreSQL", "MySQL"]
 currentFocus: ["Artificial Intelligence", "Cloud Engineering", "Constructivism"]
 
 ## Hit me up 📲
