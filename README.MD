@@ -11,6 +11,8 @@ I'm enamored with learning, discussing things we've learned together, and genera
 
 ## Activity
 <figure><embed src="https://wakatime.com/share/@AReid987/8334678e-72f5-4a9b-a4df-17ac1c38b112.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@AReid987/5b9bdcf4-963d-48b2-8de3-e0479ddbbf71.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@AReid987/bfc104bd-d108-48b6-87c9-feedccaea830.svg"></embed></figure>
 
 ## Right now I'm way into 🤔
 
