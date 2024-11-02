@@ -2,6 +2,7 @@
 
 I'm enamored with learning, discussing things we've learned together, and generally just taking my limited capacity as far as it will go. 🚀
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areid987)](https://github.com/AReid987/github-readme-stats.git)
 ## Badges & Stats 🏆
 
 [![Wakatime](https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg)](https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d)
@@ -14,18 +15,17 @@ I'm enamored with learning, discussing things we've learned together, and genera
 <figure><img src="https://wakatime.com/share/@AReid987/5b9bdcf4-963d-48b2-8de3-e0479ddbbf71.svg"></embed></figure>
 <figure><img src="https://wakatime.com/share/@AReid987/bfc104bd-d108-48b6-87c9-feedccaea830.svg"></embed></figure>
 
-## Right now I'm way into 🤔
+## Current Puzzles 🤔
 
-- Human </> Agent Collaboration
-- Multi Agent Systems (Multi Modal Crews === 🔥) 
-- Multi Agent Systems
-- GraphRAG
-- Real-Time TTS <=> STT for HITL Workflows
-- Any Combination fo Distributed, Parallel Computing on Heterogeneous Consumer Grade Hardware (p2p++)
-- HomeLabs
+- Agents
+- Computer as a Tool
+- Tiny Models & CPU Inference
+- 3D Modelling in Web Apps
+- Distributing Computing
+- Node Based Visual Development
 - Systems Architecture Design
-- Diagrams as Code
-- Design Systems
+- Living Diagrams as Code with Functional Capabilties
+- Atomic Design Systems
 
 pronouns: "he" | "him" | "his"
 
