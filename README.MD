@@ -8,7 +8,7 @@ I'm enamored with learning, discussing things we've learned together, and genera
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/areid987/areid987)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areid987&show_icons=true&theme=transparent)](https://github.com/AReid987/github-readme-stats.git)
-[![Antonio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=areid987&show_icons=true&theme=transparent)](https://github.com/ARedi987/github-readme-stats)
+[![Antonio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=areid987&show_icons=true&theme=transparent)](https://github.com/AReid987/github-readme-stats)
 
 ![futuristic sentient glowing city](futuristic-revolutionary-device-shimmering-glowing-sentient-triangular-embodies-autonomous-ani-360205748.jpeg)
 
