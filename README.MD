@@ -1,74 +1,51 @@
-# **Hi, I'm Antonio, a Human Developer 🤩**
+# **Hi, 🙋‍♂️ I'm Antonio, a Human Developer 🤩**
 
-
-## About Me 🙋‍♂️
-
-Hi, I'm Antonio, a curious coder with a passion for knowledge 📚. I'm always learning and exploring new technologies and ideas! 🚀
+I'm enamored with learning, discussing things we've learned together, and generally just taking my limited capacity as far as it will go. 🚀
 
 ## Badges & Stats 🏆
 
 [![Wakatime](https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg)](https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/areid987/areid987)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areid987&show_icons=true&theme=transparent)](https://github.com/AReid987/github-readme-stats.git)
+[![Antonio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=areid987&show_icons=true&theme=transparent)](https://github.com/AReid987/github-readme-stats)
+
 ![futuristic sentient glowing city](futuristic-revolutionary-device-shimmering-glowing-sentient-triangular-embodies-autonomous-ani-360205748.jpeg)
 
-## Personal Data (JSON) 💻
+## Activity
+<figure><img src="https://wakatime.com/share/@AReid987/8334678e-72f5-4a9b-a4df-17ac1c38b112.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@AReid987/5b9bdcf4-963d-48b2-8de3-e0479ddbbf71.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@AReid987/bfc104bd-d108-48b6-87c9-feedccaea830.svg"></embed></figure>
 
-```JavaScript
-const aboutMe = {
-  pronouns: "he" | "him" | "his",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Framer Motion"],
-      css: ["Bootstrap", "Tailwind", "Styled Components", "Material UI"]
-    },
-    backEnd: {
-      js: ["Node", "Express", "NestJS"],
-      python: ["Rails", "Flask", "Prisma ORM"]
-    },
-    databases: ["MongoDB", "PostgreSQL", "MySQL"]
-  },
-  currentFocus: ["Artificial Intelligence", "Cloud Engineering", "Constructivism"]
-};
-```
+## Current Puzzles 🤔
 
-## Current Projects 🚧
+- Agents
+- Computer as a Tool
+- Tiny Models & CPU Inference
+- 3D Modelling in Web Apps
+- Distributing Computing
+- Node Based Visual Development
+- Systems Architecture Design
+- Living Diagrams as Code with Functional Capabilties
+- Atomic Design Systems
 
-**I'm currently working on:**
+pronouns: "he" | "him" | "his"
 
-* Becoming an autonomous human
-* A full-stack web application for TWG Sportsclub using RAG, LLMs, Next.js, NestJS, GraphQL Federated Architecture, tRPC, Cloud Based Container Orchestration 🏋️‍♂️.
-* A system for creating Agentic Flows using as much consumer grade hardware as possilbe, (LPU inferencing currently) for the use case of making technology and education accessible to the underserved and profitable. 📚.
 
-## Learning Journey 📊
+### Technologies
+</> ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"]
 
-**I'm currently learning:**
+### FrontEnd
+- js ["React", "Next.js", "Framer Motion"]
+- css ["Bootstrap", "Tailwind", "Styled Components", "Material UI"]
+### BackEnd 
+- Neo4j
+- js ["Node", "Express", "NestJS"],
+- python ["Rails", "Flask", "Prisma ORM"]
+- databases: ["MongoDB", "PostgreSQL", "MySQL"]
+currentFocus: ["Artificial Intelligence", "Cloud Engineering", "Constructivism"]
 
-* Google Cloud and Azure ☁️
-* System Architecture Design and Documentation 📝
-* Design Systems and UX Design 🎨
-* Knowledge DBs, RAGs, Graph RAG and LLMs 🔍
-
-## Collaboration & Questions 🤝
-
-**I'm looking to collaborate on:**
-
-* Open-source projects related to web development or AI 🤝
-* Hackathons and coding challenges 💻
-
-**Ask me about:**
-
-* Automation and productivity hacks ⏱️
-* Web development best practices 📚
-* JavaScript frameworks and libraries 🤔
-* Data structures and algorithms 📊
-
-## Get in Touch 📲
+## Hit me up 📲
 
 * Email: [read.musik@gmail.com](mailto:read.musik@gmail.com)
 * LinkedIn: [https://linkedin.com/in/antonio-reid](https://linkedin.com/in/antonio-reid)
-
-## GitHub Stats 📈
-
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
