@@ -1,21 +1,63 @@
-# **Hi, 🙋‍♂️ I'm Antonio, a Human Developer 🤩**
+# **Hello World, 👋🏾 I'm Antonio. A Human Developer 🤩**
 
-I'm enamored with learning, discussing things we've learned together, and generally just taking my limited capacity as far as it will go. 🚀
+---
+
+## About Me
+
+I am a versatile **AI Researcher**, **Agent Enabler**, and **Human Developer** with a passion for pushing technological boundaries.
+
+While my expertise spans **Fullstack Development**, **DevOps**, and **Data Analytics**, I excel at leveraging **AI** and **Cloud Solutions** to create scalable, impactful applications.
+
+## Current Mood 🤔
+
+I'm somewhere at the intersection of **Artificial Intelligence**, **Cloud Engineering**, and **Constructivist Learning Methodologies**.
+
+I am always down for collaboration and discussion on the latest innovations and mysterious advancements rapidly changing life as we know it.
+
+## Skills
+
+<div style="display: flex; justify-content: space-between;">
+ <a href="https://github.com/areid987/areid987">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areid987&show_icons=true&theme=transparent&langs_count=12&layout=donut-vertical">
+ </a>
+ <p>
+
+- **Programming Languages:** Python, JavaScript, TypeScript, Ruby, Bash, YAML, HTML, CSS
+- **Design:** CSS, TailwindCSS, Styled Components, Framer Motion, Material UI, Bootstrap, Figma, Framer, Adobe XD
+- **Tools:** Git, GitHub, Docker, Docker Compose, Kubernetes, Terraform, GitHub Actions
+- **Frameworks:** React, Next.js, Flask, Django, Node.js, Express.js, NestJS, FastAPI, Rails, Prisma ORM
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Neo4j, GraphQL
+- **Cloud Platforms:** Cloudflare, AWS, Azure, GCP, DigitalOcean, Heroku, Netlify, Vercel
+
+ </p>
+</div>
 
 ## Badges & Stats 🏆
 
-[![Wakatime](https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg)](https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/areid987/areid987)
+<div align="center" style="display: flex; flex-direction: row;">
+ <div>
+  <a href="https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d">
+    <img src="https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg" alt="Wakatime">
+  </a>
+  </div>
+ <div>
+  <a href="https://github.com/areid987/areid987">
+   <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
+  </a>
+ </div>
+</div>
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areid987&show_icons=true&theme=transparent)](https://github.com/AReid987/github-readme-stats.git)
-[![Antonio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=areid987&show_icons=true&theme=transparent)](https://github.com/AReid987/github-readme-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=areid987&theme=&column=9)](https://github.com/areid987)
 
-![futuristic sentient glowing city](futuristic-revolutionary-device-shimmering-glowing-sentient-triangular-embodies-autonomous-ani-360205748.jpeg)
+</div>
 
 ## Activity
-<figure><img src="https://wakatime.com/share/@AReid987/8334678e-72f5-4a9b-a4df-17ac1c38b112.svg"></embed></figure>
-<figure><img src="https://wakatime.com/share/@AReid987/5b9bdcf4-963d-48b2-8de3-e0479ddbbf71.svg"></embed></figure>
-<figure><img src="https://wakatime.com/share/@AReid987/bfc104bd-d108-48b6-87c9-feedccaea830.svg"></embed></figure>
+
+<div align="justify-content: center; display: flex; flex-direction: row;">
+<a href="https://github.com/areid987/areid987">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=areid987&theme=transparent">
+</a>
 
 ## Current Puzzles 🤔
 
@@ -29,23 +71,8 @@ I'm enamored with learning, discussing things we've learned together, and genera
 - Living Diagrams as Code with Functional Capabilties
 - Atomic Design Systems
 
-pronouns: "he" | "him" | "his"
-
-
-### Technologies
-</> ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "Ruby", "SQL", "Bash"]
-
-### FrontEnd
-- js ["React", "Next.js", "Framer Motion"]
-- css ["Bootstrap", "Tailwind", "Styled Components", "Material UI"]
-### BackEnd 
-- Neo4j
-- js ["Node", "Express", "NestJS"],
-- python ["Rails", "Flask", "Prisma ORM"]
-- databases: ["MongoDB", "PostgreSQL", "MySQL"]
-currentFocus: ["Artificial Intelligence", "Cloud Engineering", "Constructivism"]
-
 ## Hit me up 📲
 
-* Email: [read.musik@gmail.com](mailto:read.musik@gmail.com)
-* LinkedIn: [https://linkedin.com/in/antonio-reid](https://linkedin.com/in/antonio-reid)
+- **Email:** [read.musik@gmail.com](mailto:read.musik@gmail.com)
+- **LinkedIn:** [https://linkedin.com/in/antonio-reid](https://linkedin.com/in/antonio-reid)
+- **pronouns:** "he" | "him" | "his"
