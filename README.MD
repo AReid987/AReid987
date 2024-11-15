@@ -1,7 +1,5 @@
 # **Hello World, 👋🏾 I'm Antonio. A Human Developer 🤩**
 
----
-
 ## About Me
 
 I am a versatile **AI Researcher**, **Agent Enabler**, and **Human Developer** with a passion for pushing technological boundaries.
