@@ -1,4 +1,4 @@
-# **Hello World, 👋🏾 I'm Antonio. A Human Developer 🤩**
+# **Hey 👋🏾 I'm Antonio. A Human Developer 🤩**
 
 ## About Me
 
