@@ -4,13 +4,13 @@
 
 I am a versatile **AI Researcher**, **Agent Enabler**, and **Human Developer** with a passion for pushing technological boundaries.
 
-While my expertise spans **Fullstack Development**, **DevOps**, and **Data Analytics**, I excel at leveraging **AI** and **Cloud Solutions** to create scalable, impactful applications.
+My expertise spans **Fullstack Development**, **DevOps**, and **Data Analytics**. However, I excel at leveraging **AI** and **Cloud Solutions** in novel ways.
 
 ## Current Mood 🤔
 
 I'm somewhere at the intersection of **Artificial Intelligence**, **Cloud Engineering**, and **Constructivist Learning Methodologies**.
 
-I am always down for collaboration and discussion on the latest innovations and mysterious advancements rapidly changing life as we know it.
+I get excited about challenging problems. I love to collaborate on projects to do with the latest innovations and mysterious advancements rapidly changing life as we know it.
 
 ## Skills
 
