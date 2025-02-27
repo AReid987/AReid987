@@ -1,16 +1,20 @@
-# **Hey 👋🏾 I'm Antonio. A Human Developer. 🤩**
+# **Hey, 👋🏾 I'm Antonio. 🤩**
 
 ## About Me
 
-I am a versatile **AI Researcher**, **Agent Enabler**, and **Human Developer** with a passion for pushing technological boundaries.
+I like problems. I believe the arena for learning is found inside a challenge, an obstacle, even a blunder. 
 
-My expertise spans **Fullstack Development**, **DevOps**, and **Data Analytics**. However, I excel at leveraging **AI** and **Cloud Solutions** in novel ways.
+I like people. Knowledge can be gained from everyday life. I find that people are an endless source of things I don't know. 
 
-## Current Mood 🤔
+I'm very compelled to solve people's problems using technology. It has to be my favorite game of all time. 
 
-I'm somewhere at the intersection of **Artificial Intelligence**, **Cloud Engineering**, and **Constructivist Learning Methodologies**.
+I have historically called myself a Software Developor, however these days I think a lot more about the User and their Problems. The rest I think of moreso as potential tools I can leverage to solve with. 
 
-I get excited about challenging problems. I love to collaborate on projects to do with the latest innovations and mysterious advancements rapidly changing life as we know it.
+## Currently 🤔
+
+Agents, naturally. Finding the right point in the execution stack to plant a non determistic entity with reasoning abilities is a fascinating way to compose logic. Orchestrating DevSecOps, summoning the outsized capabilities of an ever expanding legion of super intelligence is like living in my very own Sci-Fi Film. 
+
+What has been keeping me most joyfully occupied has bee redefining work. Every aspect - processes, perspectives, mental models, lexicon.... This may be a Renaissance. 
 
 <a href="https://git.io/streak-stats">
  <img src="https://streak-stats.demolab.com?user=areid987&theme=cyber-streakglow&border_radius=8&card_width=480&card_height=196&border=0050F0&background=45%2C615FFF%2C60FF64&stroke=61FCFF&ring=6461FF&fire=FF6461&currStreakNum=E7E9EF" alt="GitHub Streak" /></a>
@@ -23,9 +27,42 @@ I get excited about challenging problems. I love to collaborate on projects to d
  </a>
  <p>
 
-- **Programming Languages:** Python, JavaScript, TypeScript, Ruby, Bash, YAML, HTML, CSS
-- **Design:** CSS, TailwindCSS, Styled Components, Framer Motion, Material UI, Bootstrap, Figma, Framer, Adobe XD
-- **Tools:** Git, GitHub, Docker, Docker Compose, Kubernetes, Terraform, GitHub Actions
+**GoTo Stack**:
+
+pnpm, uv, pdm
+Turborepo, Docker, Docker Compose
+xyFlow, EraserDiagrams, D2Lang, IcePanel, Mermaid
+Eslint, Typescript, Ruff, cz-g, Lefthook, GPTLint, Biome.js, Megalinter / Superlinter, Codecov (I like CI/CD - always finding new stuff)
+Python, FastAPI
+Node.js >= 22, NestJS, Fastify
+REST API for AuthZ / AuthN, GraphQL (if it's worth it for PoC / MVP, save for fun for later if not)
+Tailscale, WebRTC
+pytest, jest, Cypress, Puppeteer, SeleniumBase
+Next.js
+TailwindCSS 4, Radix UI, ShadCN, Aceturnity / MagicUI / Oxy-UI..., Motion.dev, 
+Framer, Bubble, Figma, 
+Tokens Studio, Supernova, Storybook
+Blender, Spline, Vectary, React Three Fiber, Three.js
+
+Agents... This one is deep. I gravitate toward open source repositories. I enjoy find a very new release and getting to refactor things for a set of capabilites or to fix bugs. 
+The most frequent use case I have had for agents has been development activities, (including pairing with agents to build agents). 
+
+Some FOSS implementations that standout:
+
+Aider
+OpenHands
+Goose
+Bolt.diy
+GPTme
+Open Interpreter
+GPT Pilot
+
+
+
+
+- **Programming Languages:** Python, JavaScript, TypeScript, Ruby, Bash, YAML, HTML, CSS, ++
+- **Design:** CSS, TailwindCSS, Radix, Shad, Styled Components, Framer Motion, Material UI, Bootstrap, Figma, Framer, Adobe XD, ++
+- **Tools:** Git, GitHub, GitHub Actions, Docker, Docker Compose, Kubernetes, Terraform, 
 - **Frameworks:** React, Next.js, Flask, Django, Node.js, Express.js, NestJS, FastAPI, Rails, Prisma ORM
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Neo4j, GraphQL
 - **Cloud Platforms:** Cloudflare, AWS, Azure, GCP, DigitalOcean, Heroku, Netlify, Vercel
