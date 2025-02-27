@@ -12,6 +12,7 @@ I'm somewhere at the intersection of **Artificial Intelligence**, **Cloud Engine
 
 I get excited about challenging problems. I love to collaborate on projects to do with the latest innovations and mysterious advancements rapidly changing life as we know it.
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=areid987&theme=cyber-streakglow&border_radius=8&card_width=480&card_height=196&border=0050F0&background=45%2C615FFF%2C60FF64&stroke=61FCFF&ring=6461FF&fire=FF6461&currStreakNum=E7E9EF" alt="GitHub Streak" /></a>
 ## Skills
 
 <div style="display: flex; justify-content: space-between;">
