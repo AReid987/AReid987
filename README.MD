@@ -92,10 +92,7 @@ GPT Pilot
 
 ## Activity
 
-<div align="justify-content: center; display: flex; flex-direction: row;">
-<a href="https://github.com/areid987/areid987">
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=areid987&theme=transparent">
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=areid987&theme=transparent&border_radius=16&card_height=196&border=615FFF" alt="GitHub Streak" /></a>
 
 ## Current Puzzles 🤔
 
