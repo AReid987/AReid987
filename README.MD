@@ -1,33 +1,35 @@
-# **Hey, 👋🏾 I'm Antonio. 🤩**
+### Hi there 👋, I'm Antonio
+#### I am just a guy who ran away from the Coders and joined the Agents.
+![I am just a guy who ran away from the Coders and joined the Agents.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-## About Me
+When I'm awake I am learning something new about the world, or lessening the suffering of others. 
 
-I like problems. I believe the arena for learning is found inside a challenge, an obstacle, even a blunder. 
+Skills: Workflow Automation / Agent Enablement / Software Developer / UX Designer / Researcher  / DevSecOps  / Design Systems / Andragogy
 
-I like people. Knowledge can be gained from everyday life. I find that people are an endless source of things I don't know. 
+- 🔭 I’m currently working on An Agent named Lynx, A Startup Called Sportsclub, and a Stealth Project 
+- 🌱 I’m currently learning how to best debug a blackbox & methods for determining when to implement Non Deterministic Steps in an Agentic Execution Stack. 
+- 👯 I’m looking to collaborate on Anything that is either challenging, profitable, educational or likely to have a positive impact on others. 
+- 📫 How to reach me: antonio.reid@aigency.site 
+- 😄 Pronouns: He / Him / His 
 
-I'm very compelled to solve people's problems using technology. It has to be my favorite game of all time. 
 
-I have historically called myself a Software Developor, however these days I think a lot more about the User and their Problems. The rest I think of moreso as potential tools I can leverage to solve with. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-reid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AReid987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aigency.site)  
 
-## Currently 🤔
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-Agents, naturally. Finding the right point in the execution stack to plant a non determistic entity with reasoning abilities is a fascinating way to compose logic. Orchestrating DevSecOps, summoning the outsized capabilities of an ever expanding legion of super intelligence is like living in my very own Sci-Fi Film. 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AReid987)](https://github.com/ryo-ma/github-profile-trophy)
 
-What has been keeping me most joyfully occupied has bee redefining work. Every aspect - processes, perspectives, mental models, lexicon.... This may be a Renaissance. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/streak-stats">
- <img src="https://streak-stats.demolab.com?user=areid987&theme=cyber-streakglow&border_radius=8&card_width=480&card_height=196&border=0050F0&background=45%2C615FFF%2C60FF64&stroke=61FCFF&ring=6461FF&fire=FF6461&currStreakNum=E7E9EF" alt="GitHub Streak" /></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AReid987&show_icons=true&count_private=true)  
 
-## Skills
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AReid987/contributions?format=svg&private=true)  
 
-<div style="display: flex; justify-content: space-between;">
- <a href="https://github.com/areid987/areid987">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areid987&show_icons=true&theme=transparent&langs_count=12&layout=donut-vertical">
- </a>
- <p>
+![GitHub metrics](https://metrics.lecoq.io/AReid987)  
 
-**GoTo Stack**:
+![GitHub streak stats](https://streak-stats.demolab.com/?user=AReid987)  
+
+**A Stack I've been using recently**:
 
 pnpm, uv, pdm
 Turborepo, Docker, Docker Compose
@@ -56,9 +58,6 @@ Bolt.diy
 GPTme
 Open Interpreter
 GPT Pilot
-
-
-
 
 - **Programming Languages:** Python, JavaScript, TypeScript, Ruby, Bash, YAML, HTML, CSS, ++
 - **Design:** CSS, TailwindCSS, Radix, Shad, Styled Components, Framer Motion, Material UI, Bootstrap, Figma, Framer, Adobe XD, ++
