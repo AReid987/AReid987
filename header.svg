@@ -3,8 +3,8 @@
   <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .wrapper {
-          height: 100vh;
-          width: 100vw;
+          height: auto;
+          width: 100%
           display: flex;
           flex-direction: row;
           items: center;
