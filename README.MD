@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Antonio
 #### I build things to solve problems for people.
 
-<img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border-radius: 40px;"/>
+<img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: solid; border-color: transparent; border-radius: 40px;"/>
 
 When I'm awake I am learning something new about the world, or lessening the suffering of others. 
 
