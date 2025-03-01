@@ -26,8 +26,6 @@ Skills: Workflow Automation / Agent Enablement / Software Developer / UX Designe
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AReid987/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/AReid987)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AReid987)  
 
 **A Stack I've been using recently**:
