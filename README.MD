@@ -34,8 +34,10 @@ Skills:
 - 📫 How to reach me: antonio.reid@aigency.site 
 - 😄 Pronouns: He / Him / His 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-reid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AReid987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aigency.site)  
+<div style="gid; grid-columns: 3;">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-reid/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AReid987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aigency.site)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -44,10 +46,8 @@ Skills:
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AReid987/contributions?format=svg&private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AReid987)  
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=areid987&label=Profile%20views&color=0e75b6&style=flat" alt="areid987" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areid987" alt="areid987" /></a> </p>
+</div>
+---
 
 - 🔭 I’m currently working on: **Sportsclub, Aigency, Lynx**
 
