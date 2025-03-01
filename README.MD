@@ -1,9 +1,8 @@
 ### Hi 👋, I'm Antonio
 #### I build things to solve problems for people.
 
-<div style={'border-radius': '40px'}>
-    <img src="Banner-thoughts.jpg" alt="banner thoughts image"/>
-</div>
+<img src="Banner-thoughts.jpg" alt="banner thoughts image" style={'border-radius': '40px'}/>
+
 When I'm awake I am learning something new about the world, or lessening the suffering of others. 
 
 Skills: Workflow Automation / Agent Enablement / Software Developer / UX Designer / Researcher  / DevSecOps  / Design Systems / Andragogy
