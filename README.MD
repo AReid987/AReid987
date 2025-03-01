@@ -21,7 +21,10 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=areid987&theme=&column=9)](https://github.com/areid987)
 
-Skills: Workflow Automation / Agent Enablement / Software Developer / UX Designer / Researcher / DevSecOps / Design Systems / Andragogy
+Skills: 
+
+| Workflow Automation | Agent Enablement | Software Development | UX Design | Research | DevSecOps | Design Systems | Andragogy |
+| ------------------- | ---------------- | -------------------- | --------- | -------- | --------- | -------------- | --------- |
 
 - 🔭 I’m currently working on An Agent named Lynx, A Startup Called Sportsclub, and a Stealth Project 
 - 🌱 I’m currently learning how to debug a blackbox & methods for determining when to implement Non Deterministic logic in an Agentic Execution Stack. 
