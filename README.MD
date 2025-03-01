@@ -34,7 +34,7 @@ Skills:
 - 📫 How to reach me: antonio.reid@aigency.site 
 - 😄 Pronouns: He / Him / His 
 
-<div style="gid; grid-columns: 3;">
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-reid/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AReid987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aigency.site)  
@@ -46,7 +46,7 @@ Skills:
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AReid987/contributions?format=svg&private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AReid987)  
-</div>
+
 ---
 
 - 🔭 I’m currently working on: **Sportsclub, Aigency, Lynx**
