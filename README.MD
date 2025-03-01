@@ -1,15 +1,31 @@
 ### Hi 👋, I'm Antonio
-#### I build things to solve problems for people.
+#### I build things to solve problems for people Might be an Agent.
 
 <img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: solid; border-color: transparent; border-radius: 40px;"/>
 
-When I'm awake I am learning something new about the world, or lessening the suffering of others. 
+## Badges & Stats 🏆
 
-Skills: Workflow Automation / Agent Enablement / Software Developer / UX Designer / Researcher  / DevSecOps  / Design Systems / Andragogy
+<div align="center" style="display: flex; flex-direction: row;">
+ <div>
+  <a href="https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d">
+    <img src="https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg" alt="Wakatime">
+  </a>
+  </div>
+ <div>
+  <a href="https://github.com/areid987/areid987">
+   <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
+  </a>
+ </div>
+</div>
+<br />
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=areid987&theme=&column=9)](https://github.com/areid987)
+
+Skills: Workflow Automation / Agent Enablement / Software Developer / UX Designer / Researcher / DevSecOps / Design Systems / Andragogy
 
 - 🔭 I’m currently working on An Agent named Lynx, A Startup Called Sportsclub, and a Stealth Project 
-- 🌱 I’m currently learning how to best debug a blackbox & methods for determining when to implement Non Deterministic Steps in an Agentic Execution Stack. 
-- 👯 I’m looking to collaborate on Anything that is either challenging, profitable, educational or likely to have a positive impact on others. 
+- 🌱 I’m currently learning how to debug a blackbox & methods for determining when to implement Non Deterministic logic in an Agentic Execution Stack. 
+- 👯 I’m looking to collaborate on anything that is challenging, profitable, educational or likely to have a positive impact on others. 
 - 📫 How to reach me: antonio.reid@aigency.site 
 - 😄 Pronouns: He / Him / His 
 
@@ -31,9 +47,9 @@ Skills: Workflow Automation / Agent Enablement / Software Developer / UX Designe
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">Cofounder of Aigency & Sportsclub. Creator of Lynx. Possibly an Agent.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=areid987&label=Profile%20views&color=0e75b6&style=flat" alt="areid987" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=areid987&label=Profile%20views&color=0e75b6&style=flat" alt="areid987" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areid987" alt="areid987" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areid987" alt="areid987" /></a> </p>
 
 - 🔭 I’m currently working on: **Sportsclub, Aigency, Lynx**
 
@@ -45,7 +61,7 @@ Skills: Workflow Automation / Agent Enablement / Software Developer / UX Designe
 
 - 📫 How to reach me: **antonio.reid@aigency.site**
 
-- ⚡ Fun fact: **Create cannot be used up. The more you use, the more you have.**
+- ⚡ Fun fact: **Creativity cannot be used up. The more you use, the more you have.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -82,10 +98,7 @@ Framer, Bubble, Figma,
 Tokens Studio, Supernova, Storybook
 Blender, Spline, Vectary, React Three Fiber, Three.js
 
-Agents... This one is deep. I gravitate toward open source repositories. I enjoy find a very new release and getting to refactor things for a set of capabilites or to fix bugs. 
-The most frequent use case I have had for agents has been development activities, (including pairing with agents to build agents). 
-
-Some FOSS implementations that standout:
+Some FOSS Agents that standout:
 
 Aider
 OpenHands
@@ -95,55 +108,7 @@ GPTme
 Open Interpreter
 GPT Pilot
 
-- **Programming Languages:** Python, JavaScript, TypeScript, Ruby, Bash, YAML, HTML, CSS, ++
-- **Design:** CSS, TailwindCSS, Radix, Shad, Styled Components, Framer Motion, Material UI, Bootstrap, Figma, Framer, Adobe XD, ++
-- **Tools:** Git, GitHub, GitHub Actions, Docker, Docker Compose, Kubernetes, Terraform, 
-- **Frameworks:** React, Next.js, Flask, Django, Node.js, Express.js, NestJS, FastAPI, Rails, Prisma ORM
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Neo4j, GraphQL
-- **Cloud Platforms:** Cloudflare, AWS, Azure, GCP, DigitalOcean, Heroku, Netlify, Vercel
-
- </p>
 </div>
 
-## Badges & Stats 🏆
-
-<div align="center" style="display: flex; flex-direction: row;">
- <div>
-  <a href="https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d">
-    <img src="https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg" alt="Wakatime">
-  </a>
-  </div>
- <div>
-  <a href="https://github.com/areid987/areid987">
-   <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
-  </a>
- </div>
 </div>
-<br />
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=areid987&theme=&column=9)](https://github.com/areid987)
-
-</div>
-
-## Activity
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=areid987&theme=transparent&border_radius=16&card_height=196&border=615FFF" alt="GitHub Streak" /></a>
-
-## Current Puzzles 🤔
-
-- Agents
-- Computer as a Tool
-- Tiny Models & CPU Inference
-- 3D Modelling in Web Apps
-- Distributing Computing
-- Node Based Visual Development
-- Systems Architecture Design
-- Living Diagrams as Code with Functional Capabilties
-- Atomic Design Systems
-
-## Hit me up 📲
-
-- **Email:** [read.musik@gmail.com](mailto:read.musik@gmail.com)
-- **LinkedIn:** [https://linkedin.com/in/antonio-reid](https://linkedin.com/in/antonio-reid)
-- **pronouns:** "he" | "him" | "his"
 
