@@ -38,25 +38,21 @@
 
 ---
 
-- 🔭 I’m currently working on An Agent named Lynx, A Startup Called Sportsclub, and a Stealth Project 
-- 🌱 I’m currently learning how to debug a blackbox & methods for determining when to implement Non Deterministic logic in an Agentic Execution Stack. 
-- 👯 I’m looking to collaborate on anything that is challenging, profitable, educational or likely to have a positive impact on others. 
-- 📫 How to reach me: antonio.reid@aigency.site 
-- 😄 Pronouns: He / Him / His 
-
----
-
 - 🔭 I’m currently working on: **Sportsclub, Aigency, Lynx**
 
-- 👯 I’m looking to collaborate on: **Verticals**
+- 👯 I’m looking to collaborate on: **Verticals**, or anything that is challenging, profitable, educational or likely to have a positive impact on others. 
 
-- 👨‍💻 All of my projects are available at: [devLog (WIP)](devLog (WIP))
+- 🌱 I’m currently learning how to debug a blackbox & methods for determining when to implement Non Deterministic logic in an Agentic Execution Stack. 
+
+- 👨‍💻 All of my projects are available at: [devLog (WIP)](devLog (WIP, Coming Soon))
 
 - 💬 Ask me about: **Class migration or Constructivist Andragogy**
 
 - 📫 How to reach me: **antonio.reid@aigency.site**
 
 - ⚡ Fun fact: **Creativity cannot be used up. The more you use, the more you have.**
+
+- 😄 Pronouns: He / Him / His 
 
 ---
 
