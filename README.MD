@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Antonio
-#### I am just a guy who ran away from the Coders and joined the Agents.
-![I build things to solve problems for people.](./Banner-Thoughts.png)
+### Hi 👋, I'm Antonio
+#### I build things to solve problems for people.
+![Banner-Thoughts](./Banner-Thoughts.png)
 
 When I'm awake I am learning something new about the world, or lessening the suffering of others. 
 
