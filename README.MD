@@ -2,7 +2,7 @@
 #### I build things to solve problems for people.
 
 <div style={'border-radius': '40px'}>
-![Banner Thoughts image](Banner-thoughts.jpg)
+    <img src="Banner-thoughts.jpg" alt="banner thoughts image"/>
 </div>
 When I'm awake I am learning something new about the world, or lessening the suffering of others. 
 
