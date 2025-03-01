@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Antonio
 #### I am just a guy who ran away from the Coders and joined the Agents.
-![I am just a guy who ran away from the Coders and joined the Agents.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I build things to solve problems for people.](./Banner-Thoughts.png)
 
 When I'm awake I am learning something new about the world, or lessening the suffering of others. 
 
