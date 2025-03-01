@@ -21,7 +21,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AReid987)](https://github.com/ryo-ma/github-profile-trophy)
 
-Skills: 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=AReid987)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-reid/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AReid987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aigency.site)  
+
+---
+
+### Skills: 
 
 | Workflow Automation | Agent Enablement | Software Development | UX Design | Research | DevSecOps | Design Systems | Andragogy |
 | ------------------- | ---------------- | -------------------- | --------- | -------- | --------- | -------------- | --------- |
@@ -33,14 +43,6 @@ Skills:
 - 👯 I’m looking to collaborate on anything that is challenging, profitable, educational or likely to have a positive impact on others. 
 - 📫 How to reach me: antonio.reid@aigency.site 
 - 😄 Pronouns: He / Him / His 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AReid987)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987)](https://github.com/anuraghazra/github-readme-stats)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-reid/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AReid987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aigency.site)  
 
 ---
 
