@@ -1,4 +1,4 @@
-<img style="height: 200px" src="header.svg" alt="greeting gif"/>
+<img style="height: 50px; width: 100%;" src="header.svg" alt="greeting gif"/>
 
 #### Resilient. Curious. Relentless.
 
