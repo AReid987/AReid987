@@ -21,9 +21,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AReid987)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AReid987)  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="GitHub Streak" /></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-reid/) 
