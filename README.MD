@@ -22,7 +22,7 @@
 <div style="display: flex;">
 
   <div style="flex: 1; padding: 8px;">
-    [![GitHub Tophies](https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews)
+    <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews" />
   </div>
   <div style="flex: 1; padding: 8px;">
     <img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
