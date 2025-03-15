@@ -19,8 +19,8 @@
 </div>
 <br />
 
-<table>
-  <tr>
+<table style="border: nonoe;">
+  <tr style="border: nonoe;">
    <td style="padding: 8px;">
      <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews" />
    </td>
