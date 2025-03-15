@@ -27,6 +27,7 @@
   <div style="flex: 1; padding: 8px;">
     <img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
   </div>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
 
