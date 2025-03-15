@@ -25,11 +25,13 @@
      <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews" />
    </td>
    <td style="padding: 8px;">
-     <img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
+     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=areid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="GitHub Streak" /></a>/> 
+   </td>
+   <td style="padding: 8px;">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
    </td>
   </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-reid/) 
