@@ -19,16 +19,16 @@
 </div>
 <br />
 
-<div style="display: flex;">
-
-  <div style="flex: 1; padding: 8px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews" />
-  </div>
-  <div style="flex: 1; padding: 8px;">
-    <img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
-  </div>
-</div>
-
+<table>
+  <tr>
+   <td style="padding: 8px;">
+     <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews" />
+   </td>
+   <td style="padding: 8px;">
+     <img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
+   </td>
+  </tr>
+</table>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
