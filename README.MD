@@ -1,8 +1,8 @@
 <img style="width: 100%;" src="header.svg" alt="greeting gif"/>
 
-#### Resilient. Curious. Relentless.
+## Resilient. Curious. Relentless.
 
-<img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: solid; border-color: transparent; border-radius: 40px;"/>
+<img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: 1px solid; border-color: transparent; border-radius: 48px;"/>
 
 ## Badges & Stats 🏆
 
