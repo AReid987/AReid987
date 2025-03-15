@@ -13,6 +13,9 @@
      </a>
    </td>
    <td style="border: none; padding: 8px;">
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-aigency0.vercel.app?user=areid987&theme=tokyonight&card_width=496&card_height=196&fire=EB5454" alt="GitHub Streak" /></a>
+   </td>
+   <td style="border: none; padding: 8px;">
      <a href="https://github.com/areid987/areid987">
        <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
      </a>
