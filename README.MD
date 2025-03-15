@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Antonio
-#### I build things to solve problems for people Might be an Agent.
+#### Resilient. Curious. Relentless.
 
 <img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: solid; border-color: transparent; border-radius: 40px;"/>
 
@@ -38,11 +38,20 @@
 
 ---
 
-- 🔭 I’m currently working on: **Sportsclub, Aigency, Lynx**
+- 🔭 I’m currently working on: **Sportsclub, Aigency, Lynx, XPRT, Bunny Warren, Minicuration, stellarAgent, Titan Fuel**
+    - Not simultaneously and also not sequentially. 
+    - Trying this thing where I do vertical slices - one slice for each project in a row.
+    - For example: 
+        - Knocking out all of the Primary Brand Color Palettes & Font pairings
+        - Developing Each inital monorepo, CI/CD Pipeline, basic QA
+        - Implementing AuthZ / AuthN for each project one after the other
 
-- 👯 I’m looking to collaborate on: **Verticals**, or anything that is challenging, profitable, educational or likely to have a positive impact on others. 
+- 👯 I’m down to collaborate on: **Verticals**, Agents, or anything that is challenging, profitable, educational or likely to have a positive impact on others. 
 
-- 🌱 I’m currently learning how to debug a blackbox & methods for determining when to implement Non Deterministic logic in an Agentic Execution Stack. 
+- 🌱 I’m currently learning 
+    - As much as possible about Agentic RAG
+    - Implementing Self Learning Agents via multi level memory
+    - Catching up to Alice down the rabbit hole of protocols and Networking, e.g, RTC, NATS, bluetooth from Docker running Linux to a smartphone,
 
 - 👨‍💻 All of my projects are available at: [devLog (WIP)](devLog (WIP, Coming Soon))
 
