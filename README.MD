@@ -5,18 +5,20 @@
 
 ## Badges & Stats 🏆
 
-<div align="center" style="display: flex;">
- <div style="flex: 1; padding: 8px;">
-  <a href="https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d">
-    <img src="https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg" alt="Wakatime">
-  </a>
-  </div>
- <div style="flex: 1; padding: 8px;">
-  <a href="https://github.com/areid987/areid987">
-   <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
-  </a>
- </div>
-</div>
+<table style="border: none;">
+ <tr style="border: none; padding: 8px;">
+   <td>
+     <a href="https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d">
+       <img src="https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg" alt="Wakatime">
+     </a>
+   </td>
+   <td>
+     <a href="https://github.com/areid987/areid987">
+       <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
+     </a>
+   </td>
+  </tr>
+</table>
 <br />
 
 <table style="border: nonoe;">
