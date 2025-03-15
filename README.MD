@@ -19,10 +19,12 @@
 </div>
 <br />
 
-[![GitHub Tophies](https://github-profile-trophy.vercel.app/?username=AReid987&column=4&title=-Followers,-Reviews)
+<div style="flex;">
 
-<img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
+ [![GitHub Tophies](https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews)
 
+ <img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
 
