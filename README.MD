@@ -27,7 +27,9 @@
      <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews" />
    </td>
    <td style="border: none; padding: 8px;">
-     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=areid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="GitHub Streak" /></a>
+     <a href="https://git.io/streak-stats">
+       <img src="https://streak-stats.demolab.com?user=areid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="GitHub Streak" />
+     </a>
    </td>
    <td style="border: none; padding: 8px;">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
