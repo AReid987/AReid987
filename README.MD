@@ -21,7 +21,7 @@
 
 [![GitHub Tophies](https://github-profile-trophy.vercel.app/?username=AReid987&rank=SSS)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
