@@ -19,7 +19,7 @@
 </div>
 <br />
 
-[![GitHub Tophies](https://github-profile-trophy.vercel.app/?username=AReid987&column=4,-Followers)
+[![GitHub Tophies](https://github-profile-trophy.vercel.app/?username=AReid987&column=4,-Followers,-Reviews)
 
 <img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
 
