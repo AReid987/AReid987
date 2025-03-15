@@ -5,13 +5,13 @@
 
 ## Badges & Stats 🏆
 
-<div align="center" style="display: flex; flex-direction: row;">
- <div>
+<div align="center" style="display: flex;">
+ <div style="flex: 1; padding: 8px;">
   <a href="https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d">
     <img src="https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg" alt="Wakatime">
   </a>
   </div>
- <div>
+ <div style="flex: 1; padding: 8px;">
   <a href="https://github.com/areid987/areid987">
    <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
   </a>
@@ -19,12 +19,14 @@
 </div>
 <br />
 
-<div style="flex;">
+<div style="display: flex;">
 
- [![GitHub Tophies](https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews)
-
- <img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
-</div>
+  <div style="flex: 1; padding: 8px;">
+    [![GitHub Tophies](https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews)
+  </div>
+  <div style="flex: 1; padding: 8px;">
+    <img src="https://streak-stats.demolab.com?user=AReid987&theme=tokyonight&card_width=480&card_height=196&fire=EB5454" alt="github streak" /> 
+  </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
 
