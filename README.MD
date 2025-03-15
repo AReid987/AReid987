@@ -1,4 +1,5 @@
 <img style="height: 200px" src="header.svg" alt="greeting gif"/>
+
 #### Resilient. Curious. Relentless.
 
 <img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: solid; border-color: transparent; border-radius: 40px;"/>
