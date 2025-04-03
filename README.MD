@@ -28,7 +28,7 @@
   </table>
 </div>
 <br />
-<div style="text-align: center;">
+<div style="text-align: center; align: center">
   <table style="border: none; margin: 0 auto;">
     <tr style="border: none;">
       <td style="border: none; padding: 8px;">
