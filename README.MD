@@ -32,7 +32,7 @@
   <table style="border: none; margin: 0 auto;">
     <tr style="border: none;">
       <td style="border: none; padding: 8px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews" />
+        <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews,-Stars" />
       </td>
       <td style="border: none; padding: 8px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
