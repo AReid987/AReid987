@@ -6,7 +6,7 @@
 
 ## Badges & Stats 🏆
 
-<div style="text-align: center;">
+<center>
   <table style="border: none; margin: 0 auto;">
     <tr style="border: none;">
       <td style="border: none; padding: 8px;">
@@ -39,7 +39,7 @@
       </td>
     </tr>
   </table>
-</div>
+</center>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-reid/) 
