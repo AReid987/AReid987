@@ -97,6 +97,31 @@
 <table>
   <tr>
     <td>
+      <a href="https://postcss.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/postcss/postcss-icon.svg" alt="amplify" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://docs.pytest.org/en/latest/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytest/pytest-icon.svg" alt="amplify" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="amplify" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="amplify" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="amplify" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
       <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
         <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
       </a>
