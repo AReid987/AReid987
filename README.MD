@@ -270,8 +270,8 @@
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     </td>
     <td>
-      <a href="https://fly.io/?utm_source=vectorlogozone&utm_medium=referrer" target="_blank" rel="noreferrer"> 
-        <img src="hhttps://www.vectorlogo.zone/logos/flyio/flyio-icon.svg" alt="mongodb" width="40" height="40"/>
+      <a href="https://fly.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/flyio/flyio-icon.svg" alt="flyio" width="40" height="40"/>
       </a>
     </td>
   </tr>
