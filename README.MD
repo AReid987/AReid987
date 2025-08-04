@@ -4,6 +4,8 @@
 
 <img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: 2px solid; border-color: #000; border-radius: 48px;"/>
 
+[![AReid987's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AReid987&theme=react-dark)](https://github.com/AReid987/github-readme-activity-graph)
+
 ## Badges & Stats 🏆
 
 <center>
