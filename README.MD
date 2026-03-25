@@ -1,9 +1,17 @@
 <img style="width: 100%;" src="header.svg" alt="greeting gif"/>
 
-## Resilient. Curious. Relentless.
+## Curiosity & Determination
+
+<a href="https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d">
+  <img src="https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg" alt="Wakatime">
+</a>
 
 <a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" style="width: 100%;">
   <img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" style="width=100%" />
+</a>
+
+<a href="https://github.com/areid987/areid987">
+  <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
 </a>
 
 [![AReid987's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AReid987&theme=react-dark)](https://github.com/AReid987/github-readme-activity-graph)
@@ -11,48 +19,14 @@
 ## Badges & Stats 🏆
 
 <center>
-  <div style="flex">
-    <div>
-      <a href="https://github.com/areid987/areid987">
-        <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
-      </a>
-    </div>
-    <div>
-      <a href="https://wakatime.com/@018dd211-b1fc-4a37-9172-f06c7f1fa85d">
-        <img src="https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg" alt="Wakatime">
-      </a>
-    </div>
-  </div>
-  <table style="border: none; margin: 0 auto;">
-    <tr style="border: none;">
-      <td style="border: none; padding: 8px;">
-        >
-      </td>
-      <td style="border: none; padding: 8px;">
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats-aigency0.vercel.app?user=areid987&theme=transparent&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=496&card_height=200&fire=EB5454&sideNums=5BEBD7" alt="GitHub Streak" />
-        </a>
-      </td>
-      <td style="border: none; padding: 8px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-aigency0.vercel.app?user=areid987&theme=transparent&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=496&card_height=200&fire=EB5454&sideNums=5BEBD7" alt="GitHub Streak" />
+  </a>
+    
+  <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews,-Stars" />
         
-      </td>
-    </tr>
-  </table>
-</div>
-<br />
-<div style="text-align: center; align: center">
-  <table style="border: none; margin: 0 auto;">
-    <tr style="border: none;">
-      <td style="border: none; padding: 8px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews,-Stars" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td style="border: none; padding: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
+     
 </center>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
