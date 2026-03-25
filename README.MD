@@ -2,6 +2,9 @@
 
 ## Resilient. Curious. Relentless.
 
+<a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl"><img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" width="600" /></a>
+<a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl"><img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" width="600" /></a>
+
 <img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: 2px solid; border-color: #000; border-radius: 48px;"/>
 
 [![AReid987's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AReid987&theme=react-dark)](https://github.com/AReid987/github-readme-activity-graph)
@@ -50,34 +53,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/AReid987)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aigency.site)  
 
 ---
-
-### Skills: 
-
-| Workflow Automation | Agent Enablement | Software Development | UX Design | Research | DevSecOps | Design Systems | Andragogy |
-| ------------------- | ---------------- | -------------------- | --------- | -------- | --------- | -------------- | --------- |
-
----
-
-- 🔭 I’m currently working on: **Sportsclub, Aigency, Lynx, XPRT, Bunny Warren, Minicuration, stellarAgent, Titan Fuel**
-    - Not simultaneously and also not sequentially. 
-    - Trying this thing where I do vertical slices - one slice for each project in a row.
-    - For example: 
-        - Knocking out all of the Primary Brand Color Palettes & Font pairings
-        - Developing Each inital monorepo, CI/CD Pipeline, basic QA
-        - Implementing AuthZ / AuthN for each project one after the other
-
-- 👯 I’m down to collaborate on: **Verticals**, Agents, or anything that is challenging, profitable, educational or likely to have a positive impact on others. 
-
-- 🌱 I’m currently learning 
-    - As much as possible about Agentic RAG
-    - Implementing Self Learning Agents via multi level memory
-    - Catching up to Alice down the rabbit hole of protocols and Networking, e.g, RTC, NATS, bluetooth from Docker running Linux to a smartphone,
-
-- 👨‍💻 All of my projects are available at: [devLog (WIP)](devLog (WIP, Coming Soon))
-
-- 💬 Ask me about: **Class migration or Constructivist Andragogy**
-
-- 📫 How to reach me: **antonio.reid@aigency.site**
 
 - ⚡ Fun fact: **Creativity cannot be used up. The more you use, the more you have.**
 
