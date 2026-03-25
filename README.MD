@@ -6,12 +6,12 @@
   <img src="https://wakatime.com/badge/user/018dd211-b1fc-4a37-9172-f06c7f1fa85d.svg" alt="Wakatime">
 </a>
 
-<a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" style="width: 100%;">
-  <img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" style="width=100%" />
-</a>
-
 <a href="https://github.com/areid987/areid987">
   <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
+</a>
+
+<a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" style="width: 100%;">
+  <img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" style="width=100%" />
 </a>
 
 [![AReid987's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AReid987&theme=react-dark)](https://github.com/AReid987/github-readme-activity-graph)
