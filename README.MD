@@ -2,11 +2,9 @@
 
 ## Resilient. Curious. Relentless.
 
-<a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl">
+<a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" style="width: 100;">
   <img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" width="600" />
 </a>
-
-<img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: 2px solid; border-color: #000; border-radius: 48px;"/>
 
 [![AReid987's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AReid987&theme=react-dark)](https://github.com/AReid987/github-readme-activity-graph)
 
