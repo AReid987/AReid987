@@ -2,7 +2,9 @@
 
 ## Resilient. Curious. Relentless.
 
-<a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl"><img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" width="600" /></a>
+<a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl">
+  <img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" width="600" />
+</a>
 
 <img src="Banner-thoughts.jpg" alt="banner thoughts image" style="border: 2px solid; border-color: #000; border-radius: 48px;"/>
 
