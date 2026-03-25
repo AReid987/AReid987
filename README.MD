@@ -25,8 +25,6 @@
     
   <img src="https://github-profile-trophy.vercel.app/?username=AReid987&column=3&title=-Followers,-Reviews,-Stars" />
         
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AReid987" />
-     
 </center>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AReid987)  
