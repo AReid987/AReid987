@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/github/commit-activity/y/areid987/areid987" alt="GitHub commit activity">
 </a>
 
+<hr />
+
 <a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" style="width: 100%;">
   <img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" style="width=100%" />
 </a>
