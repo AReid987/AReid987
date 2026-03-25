@@ -12,8 +12,8 @@
 
 <hr />
 
-<a href="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" style="width: 100%;">
-  <img src="https://magine.cloud/api/github-card?user=AReid987&theme=nightOwl" alt="AReid987's GitHub Stats" style="width=100%" />
+<a href="https://magine.cloud/api/github-card?user=AReid987&theme=synthwave">
+  <img src="https://magine.cloud/api/github-card?user=AReid987&theme=synthwave" alt="AReid987's GitHub Stats" width="100%" />
 </a>
 
 [![AReid987's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AReid987&theme=react-dark)](https://github.com/AReid987/github-readme-activity-graph)
