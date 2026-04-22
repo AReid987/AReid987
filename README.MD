@@ -12,6 +12,7 @@
 
 <hr />
 
+<a href="https://second.me/reid_the_architect/avatar/a95955e09334" />
 <a href="https://magine.cloud/api/github-card?user=AReid987&theme=synthwave">
   <img src="https://magine.cloud/api/github-card?user=AReid987&theme=synthwave" alt="AReid987's GitHub Stats" width="100%" />
 </a>
